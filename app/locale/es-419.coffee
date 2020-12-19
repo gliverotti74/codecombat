@@ -1679,11 +1679,11 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     no_classrooms_found: "No se encontraron sulas"
     create_classroom_manually: "Crear un aula manualmente"
     classes: "Clases"
-#    certificate_btn_print: "Print"
+#    certificate_btn_print: "Imprimir"
 #    certificate_btn_toggle: "Toggle"
-#    ask_next_course: "Want to play more? Ask your teacher for access to the next course."
-#    set_start_locked_level: "Lock levels starting at"
-#    no_level_limit: "-- (no levels locked)"
+#    ask_next_course: "Quieres jugar mas? Pregunta a tu maestro para acceder al próximo curso."
+#    set_start_locked_level: "Bloquear niveles comenzando por"
+#    no_level_limit: "-- (Ningún nivel bloqueado)"
 
   project_gallery:
     no_projects_published: "¡Sé el primero en publicar un proyecto en este curso!"
@@ -1691,11 +1691,11 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     edit_project: "Editar Proyecto"
 
   teacher:
-#    assigning_course: "Assigning course"
-#    back_to_top: "Back to Top"
-#    click_student_code: "Click on any level that the student has started or completed below to view the code they wrote."
-#    code: "__name__'s Code"
-#    complete_solution: "Complete Solution"
+#    assigning_course: "Asignando curso"
+#    back_to_top: "Volver al inicio"
+#    click_student_code: "Clickea en cualquier nivel que el estudiante ha iniciado o completa debajo para ver el código escrito."
+#    code: "__nombre__'s Código"
+#    complete_solution: "Solución completa"
 #    course_not_started: "Student has not started this course yet."
 #    hoc_happy_ed_week: "Happy Computer Science Education Week!"
 #    hoc_blurb1: "Learn about the free"
